@@ -193,7 +193,7 @@ This is an example of a JSON file saved using `mode='full'`.
 
 This is an example of a CSV file exported using `.export_csv()`. Note how all keys are flattened into columns.
 
-```json
+```
 timestamp,session_id,amount,event,product_id,user_id
 2025-08-04T17:37:54.000Z,a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6,,user_login,,123
 2025-08-04T17:37:54.001Z,a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6,45.99,purchase,987,
